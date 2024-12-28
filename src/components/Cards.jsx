@@ -5,11 +5,11 @@ function Cards({id, nombre,image, shortDescription, price}) {
   return (
     <div className='rounded-lg border bg-card text-card-foreground shadow-sm w-full max-w-sm m-2'>
       <div className='flex flex-col space-y-1.5 p-6'>
-        <img className='w-full h-48 object-cover rounded-t-lg' src={image} alt="asdasd" />
+        <img className='w-full h-48 object-contain rounded-t-lg bg-white' src={image} alt="asdasd" />
         <h3 className='text-2xl font-semibold leading-none tracking-tight flex'>{nombre}</h3>
       </div>
       <div className='p-6 pt-0'>
-        <p className='text-sm text-muted-foreground mb-4 flex'>{shortDescription}</p>
+        <p className='text-sm text-muted-foreground mb-4 flex text-left'>{shortDescription}</p>
         <div className='flex justify-between items-center'>
           <span className='text-2xl font-bold'>${price}</span>
         </div>
