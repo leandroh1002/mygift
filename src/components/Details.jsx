@@ -2,6 +2,7 @@ import React, { useEffect, useState } from 'react'
 import gift from "../assets/list/gift.json"
 import { Link, useParams } from 'react-router-dom';
 import PATHROUTES from '../helpers/PathRoutes.helper';
+import Cards from "./Cards"
 
 function Details(gifts) {
   const {id} = useParams();
@@ -17,7 +18,7 @@ function Details(gifts) {
   } 
 
   return (
-    <div className='flex justify-center'>
+    <div className='flex justify-center flex-col items-center'>
       <div className='bg-white w-[1408px] h-[580px] rounded-lg'>
         <div className='flex'>
           <img className="h-5 w-5 text-gray-600" />
@@ -69,6 +70,23 @@ function Details(gifts) {
           </div>
         </div>
       </div>
+      <div  className='bg-slate-600'>
+        <h3>Opciones</h3>
+        <div className='w-[1408px] h-[480px] bg-slate-400 flex flex-wrap justify-center'>
+          {giftDetails.options && giftDetails.options.length > 0 && giftDetails.options.map(option => (
+            <Cards 
+              key={option.id}
+              id={option.id}
+              nombre={option.Nombre}
+              shortDescription={option.ShortDescription}
+              price={option.Price}
+              image={option.Image}
+            />
+          ))}
+        </div>
+      </div>
+      {/* <div className='w-[1408px] h-[380px] bg-orange-200'>
+      </div> */}
     </div>
   )
 }
