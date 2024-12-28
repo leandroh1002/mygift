@@ -30,13 +30,60 @@
                     "Hero"
                 ]
             }
-        ],
+        ],"options": [ {
+                "Nombre": "Dpi Máximos",
+                "Image": "https://imagenes.compragamer.com/productos/compragamer_Imganen_general_38052_Mouse_Logitech_G502_Gaming_Hero_High_Performance_RGB_2f8a1691-grn.jpg",
+                "ShortDescription": "25600",
+                "Price": 29.99
+            },
+            {
+                "Nombre": "Sensor",
+                "Image": "https://imagenes.compragamer.com/productos/compragamer_Imganen_general_38052_Mouse_Logitech_G502_Gaming_Hero_High_Performance_RGB_2f8a1691-grn.jpg",
+                "ShortDescription": "Hero",
+                "Price": 29.99
+            },
+            {
+                "Nombre": "algo2",
+                "Image": "https://imagenes.compragamer.com/productos/compragamer_Imganen_general_38052_Mouse_Logitech_G502_Gaming_Hero_High_Performance_RGB_2f8a1691-grn.jpg",
+                "ShortDescription": "Hero",
+                "Price": 29.99
+            },
+            {
+                "Nombre": "algo3",
+                "Image": "https://imagenes.compragamer.com/productos/compragamer_Imganen_general_38052_Mouse_Logitech_G502_Gaming_Hero_High_Performance_RGB_2f8a1691-grn.jpg",
+                "ShortDescription": "Hero",
+                "Price": 29.99
+            },
+            {
+                "Nombre": "algo3",
+                "Image": "https://imagenes.compragamer.com/productos/compragamer_Imganen_general_38052_Mouse_Logitech_G502_Gaming_Hero_High_Performance_RGB_2f8a1691-grn.jpg",
+                "ShortDescription": "Hero",
+                "Price": 29.99
+            },
+            {
+                "Nombre": "algo3",
+                "Image": "https://imagenes.compragamer.com/productos/compragamer_Imganen_general_38052_Mouse_Logitech_G502_Gaming_Hero_High_Performance_RGB_2f8a1691-grn.jpg",
+                "ShortDescription": "Hero",
+                "Price": 29.99
+            },
+            {
+                "Nombre": "algo3",
+                "Image": "https://imagenes.compragamer.com/productos/compragamer_Imganen_general_38052_Mouse_Logitech_G502_Gaming_Hero_High_Performance_RGB_2f8a1691-grn.jpg",
+                "ShortDescription": "Hero",
+                "Price": 29.99
+            },
+            {
+                "Nombre": "algo3",
+                "Image": "https://imagenes.compragamer.com/productos/compragamer_Imganen_general_38052_Mouse_Logitech_G502_Gaming_Hero_High_Performance_RGB_2f8a1691-grn.jpg",
+                "ShortDescription": "Hero",
+                "Price": 29.99
+            }],
         "Price": 29.99
     },
     {
         "id": 2,
-        "Nombre": "Mouse",
-        "Description": "This is a detailed description of Gift 2.",
+        "Nombre": "Brazo hidraulico para 3 monitores",
+        "Description": "Brazo hidraulico para 3 monitores",
         "ShortDescription": "Short description of Gift 2.",
         "Image": "https://imagenes.compragamer.com/productos/compragamer_Imganen_general_36670_Mouse_Logitech_G502X_PLUS_Black_Lightforce_Hero_25K_Wireless_RGB_26eb9853-grn.jpg",
         "Caracteristicas": [
@@ -70,6 +117,243 @@
     {
         "id": 3,
         "Nombre": "Auricular",
+        "Description": "This is a detailed description of Gift 2.",
+        "ShortDescription": "Short description of Gift 2.",
+        "Image": "https://imagenes.compragamer.com/productos/compragamer_Imganen_general_26032_Auriculares_Logitech_G935_Wireless_2.4Ghz_7.1_Lightsync_DTS_Headphone_X_RGB_2e7a0ba2-grn.jpg",
+        "Caracteristicas": [
+            {
+                "FeatureName": "Dpi Máximos",
+                "subcaracteristicas": [
+                    "25600"
+                ]
+            },
+            {
+                "FeatureName": "Sensor",
+                "subcaracteristicas": [
+                    "Hero"
+                ]
+            },
+            {
+                "FeatureName": "algo2",
+                "subcaracteristicas": [
+                    "Hero"
+                ]
+            },
+            {
+                "FeatureName": "algo3",
+                "subcaracteristicas": [
+                    "Hero"
+                ]
+            }
+        ],
+        "Price": 49.99
+    },{
+        "id": 4,
+        "Nombre": "Disco solido m.2",
+        "Description": "Diseñado para un desempeño avanzado en los juegos. G502 HERO cuenta con un sensor de juegos HERO 25K con seguimiento de precisión submicrométrica, LIGHTSYNC RGB personalizable, perfiles integrados, pesos reposicionables y mucho más.",
+        "ShortDescription": "G502 HERO dispone de un sensor óptico avanzado para máxima precisión de seguimiento, iluminación RGB personalizada, perfiles de juego personalizados, de 200 a 25.600 dpi y pesas reposicionables. ",
+        "Image": "https://imagenes.compragamer.com/productos/compragamer_Imganen_general_38052_Mouse_Logitech_G502_Gaming_Hero_High_Performance_RGB_2f8a1691-grn.jpg",
+        "Caracteristicas": [
+            {
+                "FeatureName": "Dpi Máximos",
+                "subcaracteristicas": [
+                    "25600"
+                ]
+            },
+            {
+                "FeatureName": "Sensor",
+                "subcaracteristicas": [
+                    "Hero"
+                ]
+            },
+            {
+                "FeatureName": "algo2",
+                "subcaracteristicas": [
+                    "Hero"
+                ]
+            },
+            {
+                "FeatureName": "algo3",
+                "subcaracteristicas": [
+                    "Hero"
+                ]
+            }
+        ],
+        "Price": 29.99
+    },
+    {
+        "id": 5,
+        "Nombre": "Comunicador para el casco de la moto",
+        "Description": "This is a detailed description of Gift 2.",
+        "ShortDescription": "Short description of Gift 2.",
+        "Image": "https://imagenes.compragamer.com/productos/compragamer_Imganen_general_36670_Mouse_Logitech_G502X_PLUS_Black_Lightforce_Hero_25K_Wireless_RGB_26eb9853-grn.jpg",
+        "Caracteristicas": [
+            {
+                "FeatureName": "Dpi Máximos",
+                "subcaracteristicas": [
+                    "25600"
+                ]
+            },
+            {
+                "FeatureName": "Sensor",
+                "subcaracteristicas": [
+                    "Hero"
+                ]
+            },
+            {
+                "FeatureName": "algo2",
+                "subcaracteristicas": [
+                    "Hero"
+                ]
+            },
+            {
+                "FeatureName": "algo3",
+                "subcaracteristicas": [
+                    "Hero"
+                ]
+            }
+        ],
+        "Price": 49.99
+    },
+    {
+        "id": 6,
+        "Nombre": "Pad para el mouse pero del grande",
+        "Description": "This is a detailed description of Gift 2.",
+        "ShortDescription": "Short description of Gift 2.",
+        "Image": "https://imagenes.compragamer.com/productos/compragamer_Imganen_general_26032_Auriculares_Logitech_G935_Wireless_2.4Ghz_7.1_Lightsync_DTS_Headphone_X_RGB_2e7a0ba2-grn.jpg",
+        "Caracteristicas": [
+            {
+                "FeatureName": "Dpi Máximos",
+                "subcaracteristicas": [
+                    "25600"
+                ]
+            },
+            {
+                "FeatureName": "Sensor",
+                "subcaracteristicas": [
+                    "Hero"
+                ]
+            },
+            {
+                "FeatureName": "algo2",
+                "subcaracteristicas": [
+                    "Hero"
+                ]
+            },
+            {
+                "FeatureName": "algo3",
+                "subcaracteristicas": [
+                    "Hero"
+                ]
+            }
+        ],
+        "Price": 49.99
+    },{
+        "id": 7,
+        "Nombre": "Teclado mecanico Low profile",
+        "Description": "Diseñado para un desempeño avanzado en los juegos. G502 HERO cuenta con un sensor de juegos HERO 25K con seguimiento de precisión submicrométrica, LIGHTSYNC RGB personalizable, perfiles integrados, pesos reposicionables y mucho más.",
+        "ShortDescription": "G502 HERO dispone de un sensor óptico avanzado para máxima precisión de seguimiento, iluminación RGB personalizada, perfiles de juego personalizados, de 200 a 25.600 dpi y pesas reposicionables. ",
+        "Image": "https://imagenes.compragamer.com/productos/compragamer_Imganen_general_38052_Mouse_Logitech_G502_Gaming_Hero_High_Performance_RGB_2f8a1691-grn.jpg",
+        "Caracteristicas": [
+            {
+                "FeatureName": "Dpi Máximos",
+                "subcaracteristicas": [
+                    "25600"
+                ]
+            },
+            {
+                "FeatureName": "Sensor",
+                "subcaracteristicas": [
+                    "Hero"
+                ]
+            },
+            {
+                "FeatureName": "algo2",
+                "subcaracteristicas": [
+                    "Hero"
+                ]
+            },
+            {
+                "FeatureName": "algo3",
+                "subcaracteristicas": [
+                    "Hero"
+                ]
+            }
+        ],
+        "Price": 29.99
+    },
+    {
+        "id": 8,
+        "Nombre": "Brazo hidraulico para el microfono",
+        "Description": "This is a detailed description of Gift 2.",
+        "ShortDescription": "Short description of Gift 2.",
+        "Image": "https://imagenes.compragamer.com/productos/compragamer_Imganen_general_36670_Mouse_Logitech_G502X_PLUS_Black_Lightforce_Hero_25K_Wireless_RGB_26eb9853-grn.jpg",
+        "Caracteristicas": [
+            {
+                "FeatureName": "Dpi Máximos",
+                "subcaracteristicas": [
+                    "25600"
+                ]
+            },
+            {
+                "FeatureName": "Sensor",
+                "subcaracteristicas": [
+                    "Hero"
+                ]
+            },
+            {
+                "FeatureName": "algo2",
+                "subcaracteristicas": [
+                    "Hero"
+                ]
+            },
+            {
+                "FeatureName": "algo3",
+                "subcaracteristicas": [
+                    "Hero"
+                ]
+            }
+        ],
+        "Price": 49.99
+    },
+    {
+        "id": 9,
+        "Nombre": "Bateria para la notebook",
+        "Description": "This is a detailed description of Gift 2.",
+        "ShortDescription": "Short description of Gift 2.",
+        "Image": "https://imagenes.compragamer.com/productos/compragamer_Imganen_general_26032_Auriculares_Logitech_G935_Wireless_2.4Ghz_7.1_Lightsync_DTS_Headphone_X_RGB_2e7a0ba2-grn.jpg",
+        "Caracteristicas": [
+            {
+                "FeatureName": "Dpi Máximos",
+                "subcaracteristicas": [
+                    "25600"
+                ]
+            },
+            {
+                "FeatureName": "Sensor",
+                "subcaracteristicas": [
+                    "Hero"
+                ]
+            },
+            {
+                "FeatureName": "algo2",
+                "subcaracteristicas": [
+                    "Hero"
+                ]
+            },
+            {
+                "FeatureName": "algo3",
+                "subcaracteristicas": [
+                    "Hero"
+                ]
+            }
+        ],
+        "options": [ ],
+        "Price": 49.99
+    },
+    {
+        "id": 10,
+        "Nombre": "Casco para la moto, rebatible",
         "Description": "This is a detailed description of Gift 2.",
         "ShortDescription": "Short description of Gift 2.",
         "Image": "https://imagenes.compragamer.com/productos/compragamer_Imganen_general_26032_Auriculares_Logitech_G935_Wireless_2.4Ghz_7.1_Lightsync_DTS_Headphone_X_RGB_2e7a0ba2-grn.jpg",
