@@ -60,9 +60,11 @@ function Details(gifts) {
             </div>
             <div className='space-y-4">'>
                 <div className='flex'>
-                  <span className='text-3xl font-bold'>€{giftDetails.Price}</span>
+                  <span className='text-3xl font-bold'>${giftDetails.Price}</span>
                 </div>
-                <button className='w-full bg-black text-white hover:bg-gray-800'>Agregar</button>
+                <a href={giftDetails.Link} target="_blank">
+                <button className='w-full bg-black text-white hover:bg-gray-800'>Comprar</button>
+                </a>
             </div>
           </div>
           <div>
