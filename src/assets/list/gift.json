@@ -84,33 +84,33 @@
     {
         "id": 2,
         "Nombre": "Smart Tech KX-101-D",
-        "Description": "Brazo hidraulico para 3 monitores",
-        "ShortDescription": "Short description of Gift 2.",
+        "Description": "Brazo hidráulico para 2 monitores, ajustable y resistente, ideal para estaciones de trabajo y setups de gaming.",
+        "ShortDescription": "Brazo hidráulico para 2 monitores, ajustable y resistente.",
         "Image": "https://http2.mlstatic.com/D_NQ_NP_969306-MLA80682958549_112024-O.webp",
         "Link":"https://www.mercadolibre.com.ar/smart-tech-kx-101-d-negro/p/MLA18644452#polycard_client=search-nordic&wid=MLA1682989474&sid=search&searchVariation=MLA18644452&position=11&search_layout=stack&type=product&tracking_id=602cd8e0-4847-4751-85fa-eb110a78641c",
         "Caracteristicas": [
             {
-                "FeatureName": "Dpi Máximos",
+                "FeatureName": "Capacidad de Monitores",
                 "subcaracteristicas": [
-                    "25600"
+                    "3"
                 ]
             },
             {
-                "FeatureName": "Sensor",
+                "FeatureName": "Ajuste",
                 "subcaracteristicas": [
-                    "Hero"
+                    "Hidráulico"
                 ]
             },
             {
-                "FeatureName": "algo2",
+                "FeatureName": "Material",
                 "subcaracteristicas": [
-                    "Hero"
+                    "Acero"
                 ]
             },
             {
-                "FeatureName": "algo3",
+                "FeatureName": "Compatibilidad",
                 "subcaracteristicas": [
-                    "Hero"
+                    "VESA"
                 ]
             }
         ],
@@ -119,33 +119,33 @@
     {
         "id": 3,
         "Nombre": "Auriculares JBL Quantum 610 Wireless 2.4Ghz",
-        "Description": "This is a detailed description of Gift 2.",
-        "ShortDescription": "Short description of Gift 2.",
+        "Description": "Auriculares inalámbricos JBL Quantum 610 con sonido envolvente, micrófono desmontable y batería de larga duración.",
+        "ShortDescription": "Auriculares inalámbricos con sonido envolvente y micrófono desmontable.",
         "Image": "https://www.jbl.com.ar/dw/image/v2/AAUJ_PRD/on/demandware.static/-/Sites-masterCatalog_Harman/default/dwcfccfe8a/5.JBL_QUANTUM_910_Wireless_Product%20Image_Back.png?sw=537&sfrm=png",
         "Link":"https://compragamer.com/producto/Auriculares_JBL_Quantum_610_Wireless_2_4Ghz_Surround_RGB_Black_39Hs_PC_PS4_PS5_XBOX_15926?cate=8&sort=lower_price",
         "Caracteristicas": [
             {
-                "FeatureName": "Dpi Máximos",
+                "FeatureName": "Conectividad",
                 "subcaracteristicas": [
-                    "25600"
+                    "Inalámbrica 2.4Ghz"
                 ]
             },
             {
-                "FeatureName": "Sensor",
+                "FeatureName": "Sonido",
                 "subcaracteristicas": [
-                    "Hero"
+                    "Envolvente"
                 ]
             },
             {
-                "FeatureName": "algo2",
+                "FeatureName": "Micrófono",
                 "subcaracteristicas": [
-                    "Hero"
+                    "Desmontable"
                 ]
             },
             {
-                "FeatureName": "algo3",
+                "FeatureName": "Duración de Batería",
                 "subcaracteristicas": [
-                    "Hero"
+                    "Hasta 39 horas"
                 ]
             }
         ],
@@ -153,33 +153,34 @@
     },{
         "id": 4,
         "Nombre": "Disco Sólido SSD M.2 Kingston 500GB",
-        "Description": "Diseñado para un desempeño avanzado en los juegos. G502 HERO cuenta con un sensor de juegos HERO 25K con seguimiento de precisión submicrométrica, LIGHTSYNC RGB personalizable, perfiles integrados, pesos reposicionables y mucho más.",
-        "ShortDescription": "G502 HERO dispone de un sensor óptico avanzado para máxima precisión de seguimiento, iluminación RGB personalizada, perfiles de juego personalizados, de 200 a 25.600 dpi y pesas reposicionables. ",
+        "Description": "Disco sólido SSD M.2 Kingston de 500GB con velocidades de lectura/escritura de hasta 3500MB/s, ideal para mejorar el rendimiento de tu PC.",
+        "ShortDescription": "SSD M.2 de 500GB con velocidades de hasta 3500MB/s.",
+
         "Image": "https://imagenes.compragamer.com/productos/compragamer_Imganen_general_35379_Disco_S__lido_SSD_M.2_Kingston_500GB_NV2_3500MB_s_NVMe_PCI-E_4x_8fb1b7d5-grn.jpg",
         "Link":"https://compragamer.com/producto/Disco_S_lido_SSD_M_2_Kingston_500GB_NV2_3500MB_s_NVMe_PCI_E_4x_14240?sort=lower_price&cate=81",
         "Caracteristicas": [
             {
-                "FeatureName": "Dpi Máximos",
+                "FeatureName": "Capacidad",
                 "subcaracteristicas": [
-                    "25600"
+                    "500GB"
                 ]
             },
             {
-                "FeatureName": "Sensor",
+                "FeatureName": "Velocidad de Lectura",
                 "subcaracteristicas": [
-                    "Hero"
+                    "3500MB/s"
                 ]
             },
             {
-                "FeatureName": "algo2",
+                "FeatureName": "Velocidad de Escritura",
                 "subcaracteristicas": [
-                    "Hero"
+                    "3000MB/s"
                 ]
             },
             {
-                "FeatureName": "algo3",
+                "FeatureName": "Interfaz",
                 "subcaracteristicas": [
-                    "Hero"
+                    "NVMe PCIe 4.0"
                 ]
             }
         ],
@@ -188,33 +189,33 @@
     {
         "id": 5,
         "Nombre": "Intercomunicador Ejeas V6 Pro Bluetooth",
-        "Description": "This is a detailed description of Gift 2.",
-        "ShortDescription": "Short description of Gift 2.",
+        "Description": "Intercomunicador Ejeas V6 Pro Bluetooth para motocicletas, con alcance de hasta 1200 metros y conexión simultánea de hasta 6 usuarios.",
+        "ShortDescription": "Intercomunicador Bluetooth para motocicletas con alcance de 1200 metros.",
         "Image": "https://http2.mlstatic.com/D_NQ_NP_685641-MLA81630287385_122024-O.webp",
         "Link":"https://articulo.mercadolibre.com.ar/MLA-1347010861-intercomunicador-ejeas-v6-pro-bluetooth-moto-100-original-_JM#polycard_client=search-nordic&position=11&search_layout=grid&type=item&tracking_id=2eef4219-ad94-470a-a843-0d670f13b07b",
         "Caracteristicas": [
             {
-                "FeatureName": "Dpi Máximos",
+                "FeatureName": "Alcance",
                 "subcaracteristicas": [
-                    "25600"
+                    "1200 metros"
                 ]
             },
             {
-                "FeatureName": "Sensor",
+                "FeatureName": "Conexión Simultánea",
                 "subcaracteristicas": [
-                    "Hero"
+                    "Hasta 6 usuarios"
                 ]
             },
             {
-                "FeatureName": "algo2",
+                "FeatureName": "Batería",
                 "subcaracteristicas": [
-                    "Hero"
+                    "Hasta 8 horas de conversación"
                 ]
             },
             {
-                "FeatureName": "algo3",
+                "FeatureName": "Resistencia al Agua",
                 "subcaracteristicas": [
-                    "Hero"
+                    "IP65"
                 ]
             }
         ],
@@ -223,33 +224,33 @@
     {
         "id": 6,
         "Nombre": "Desk Pad Gigante Xxl",
-        "Description": "This is a detailed description of Gift 2.",
-        "ShortDescription": "Short description of Gift 2.",
+        "Description": "Desk Pad gigante XXL de 84x38 cm, ideal para proteger tu escritorio y mejorar la precisión del mouse.",
+        "ShortDescription": "Desk Pad gigante de 84x38 cm para proteger tu escritorio.",
         "Image": "https://http2.mlstatic.com/D_NQ_NP_935166-MLU75098776768_032024-O.webp",
         "Link":"https://www.mercadolibre.com.ar/cdtek-desk-pad-mapa-xxl-84-cm-38-cm-3-mm/p/MLA23138437?product_trigger_id=MLA37471890&quantity=1",
         "Caracteristicas": [
             {
-                "FeatureName": "Dpi Máximos",
+                "FeatureName": "Dimensiones",
                 "subcaracteristicas": [
-                    "25600"
+                    "84x38 cm"
                 ]
             },
             {
-                "FeatureName": "Sensor",
+                "FeatureName": "Grosor",
                 "subcaracteristicas": [
-                    "Hero"
+                    "3 mm"
                 ]
             },
             {
-                "FeatureName": "algo2",
+                "FeatureName": "Material",
                 "subcaracteristicas": [
-                    "Hero"
+                    "Caucho"
                 ]
             },
             {
-                "FeatureName": "algo3",
+                "FeatureName": "Superficie",
                 "subcaracteristicas": [
-                    "Hero"
+                    "Antideslizante"
                 ]
             }
         ],
@@ -257,33 +258,33 @@
     },{
         "id": 7,
         "Nombre": "Razer Deathstalker V2 Pro",
-        "Description": "Diseñado para un desempeño avanzado en los juegos. G502 HERO cuenta con un sensor de juegos HERO 25K con seguimiento de precisión submicrométrica, LIGHTSYNC RGB personalizable, perfiles integrados, pesos reposicionables y mucho más.",
-        "ShortDescription": "G502 HERO dispone de un sensor óptico avanzado para máxima precisión de seguimiento, iluminación RGB personalizada, perfiles de juego personalizados, de 200 a 25.600 dpi y pesas reposicionables. ",
+        "Description": "Teclado inalámbrico Razer Deathstalker V2 Pro con switches ópticos, retroiluminación RGB y batería de larga duración.",
+        "ShortDescription": "Teclado inalámbrico con switches ópticos y retroiluminación RGB.",
         "Image": "https://http2.mlstatic.com/D_NQ_NP_665996-MLA81467799659_122024-O.webp",
         "Link":"https://articulo.mercadolibre.com.ar/MLA-1192578902-razer-deathstalker-v2-pro-teclado-inalambrico-low-profile-_JM?searchVariation=186468193803#polycard_client=search-nordic&searchVariation=186468193803&position=12&search_layout=stack&type=item&tracking_id=1d3bb8c1-4a22-4a58-8212-53b69740a36c",
         "Caracteristicas": [
             {
-                "FeatureName": "Dpi Máximos",
+                "FeatureName": "Switches",
                 "subcaracteristicas": [
-                    "25600"
+                    "Ópticos"
                 ]
             },
             {
-                "FeatureName": "Sensor",
+                "FeatureName": "Retroiluminación",
                 "subcaracteristicas": [
-                    "Hero"
+                    "RGB"
                 ]
             },
             {
-                "FeatureName": "algo2",
+                "FeatureName": "Conectividad",
                 "subcaracteristicas": [
-                    "Hero"
+                    "Inalámbrica"
                 ]
             },
             {
-                "FeatureName": "algo3",
+                "FeatureName": "Duración de Batería",
                 "subcaracteristicas": [
-                    "Hero"
+                    "Hasta 40 horas"
                 ]
             }
         ],
@@ -292,33 +293,33 @@
     {
         "id": 8,
         "Nombre": "Brazo Para Microfono",
-        "Description": "This is a detailed description of Gift 2.",
-        "ShortDescription": "Short description of Gift 2.",
+        "Description": "Brazo ajustable para micrófono, ideal para estudios de grabación y setups de streaming.",
+        "ShortDescription": "Brazo ajustable para micrófono, ideal para estudios de grabación.",
         "Image": "https://http2.mlstatic.com/D_NQ_NP_781852-MLA81453239047_122024-O.webp",
         "Link":"https://articulo.mercadolibre.com.ar/MLA-1466506805-brazo-para-microfono-_JM#polycard_client=search-nordic&position=22&search_layout=stack&type=item&tracking_id=f88f2a62-4103-44e3-8cfc-c61cd6803ea3",
         "Caracteristicas": [
             {
-                "FeatureName": "Dpi Máximos",
+                "FeatureName": "Ajuste",
                 "subcaracteristicas": [
-                    "25600"
+                    "Flexible"
                 ]
             },
             {
-                "FeatureName": "Sensor",
+                "FeatureName": "Material",
                 "subcaracteristicas": [
-                    "Hero"
+                    "Acero"
                 ]
             },
             {
-                "FeatureName": "algo2",
+                "FeatureName": "Compatibilidad",
                 "subcaracteristicas": [
-                    "Hero"
+                    "Universal"
                 ]
             },
             {
-                "FeatureName": "algo3",
+                "FeatureName": "Longitud",
                 "subcaracteristicas": [
-                    "Hero"
+                    "80 cm"
                 ]
             }
         ],
@@ -327,33 +328,33 @@
     {
         "id": 9,
         "Nombre": "Bateria P/ Hp Omen 15-ce",
-        "Description": "This is a detailed description of Gift 2.",
-        "ShortDescription": "Short description of Gift 2.",
+        "Description": "Batería de repuesto para HP Omen 15-ce, con capacidad de 5200mAh y voltaje de 11.55V.",
+        "ShortDescription": "Batería de repuesto para HP Omen 15-ce, capacidad de 5200mAh.",
         "Image": "https://http2.mlstatic.com/D_NQ_NP_717378-MLA80863386256_122024-O.webp",
         "Link":"https://articulo.mercadolibre.com.ar/MLA-1969636266-bateria-p-hp-omen-15-ce-15-dc-15-cx-sr04xl-tpn-q193-917678-_JM?searchVariation=186264846645#polycard_client=search-nordic&searchVariation=186264846645&position=4&search_layout=stack&type=item&tracking_id=965c28bc-a4fc-42b3-90fd-a240d4f016cb",
         "Caracteristicas": [
             {
-                "FeatureName": "Dpi Máximos",
+                "FeatureName": "Capacidad",
                 "subcaracteristicas": [
-                    "25600"
+                    "5200mAh"
                 ]
             },
             {
-                "FeatureName": "Sensor",
+                "FeatureName": "Voltaje",
                 "subcaracteristicas": [
-                    "Hero"
+                    "11.55V"
                 ]
             },
             {
-                "FeatureName": "algo2",
+                "FeatureName": "Compatibilidad",
                 "subcaracteristicas": [
-                    "Hero"
+                    "HP Omen 15-ce"
                 ]
             },
             {
-                "FeatureName": "algo3",
+                "FeatureName": "Tipo de Batería",
                 "subcaracteristicas": [
-                    "Hero"
+                    "Li-ion"
                 ]
             }
         ],
@@ -363,33 +364,33 @@
     {
         "id": 10,
         "Nombre": "Casco Rebatible Hawk RS5 Flip Up Negro L",
-        "Description": "This is a detailed description of Gift 2.",
-        "ShortDescription": "Short description of Gift 2.",
+        "Description": "Casco rebatible Hawk RS5 Flip Up en color negro, talla L, con certificación DOT y visor solar integrado.",
+        "ShortDescription": "Casco rebatible con certificación DOT y visor solar integrado.",
         "Image": "https://http2.mlstatic.com/D_NQ_NP_946353-MLU77896727630_082024-O.webp",
         "Link":"https://www.mercadolibre.com.ar/hawk-flip-up-rs5-negro-l/p/MLA6261288?product_trigger_id=MLA6261294&quantity=1",
         "Caracteristicas": [
             {
-                "FeatureName": "Dpi Máximos",
+                "FeatureName": "Certificación",
                 "subcaracteristicas": [
-                    "25600"
+                    "DOT"
                 ]
             },
             {
-                "FeatureName": "Sensor",
+                "FeatureName": "Visor",
                 "subcaracteristicas": [
-                    "Hero"
+                    "Solar integrado"
                 ]
             },
             {
-                "FeatureName": "algo2",
+                "FeatureName": "Talla",
                 "subcaracteristicas": [
-                    "Hero"
+                    "L"
                 ]
             },
             {
-                "FeatureName": "algo3",
+                "FeatureName": "Color",
                 "subcaracteristicas": [
-                    "Hero"
+                    "Negro"
                 ]
             }
         ],
