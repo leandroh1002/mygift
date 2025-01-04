@@ -19,7 +19,7 @@ function Details(gifts) {
 
   return (
     <div className='flex justify-center flex-col items-center'>
-      <div className='bg-white w-[1408px] h-[580px] rounded-lg'>
+      <div className='bg-white min-w-[1408px] h-[580px] rounded-lg'>
         <div className='flex'>
           <img className="h-5 w-5 text-gray-600" />
           <Link to={PATHROUTES.LANDING}><button>Volver</button></Link>
@@ -72,7 +72,7 @@ function Details(gifts) {
       </div>
       <div  className='bg-slate-600'>
         <h3>Opciones</h3>
-        <div className='w-[1408px] h-[480px] bg-slate-400 flex flex-wrap justify-center'>
+        <div className='max-w-[1408px] max-h-[1480px]  bg-slate-400 flex flex-wrap justify-center'>
           {giftDetails.options && giftDetails.options.length > 0 && giftDetails.options.map(option => (
             <Cards 
               key={option.id}
@@ -85,7 +85,7 @@ function Details(gifts) {
           ))}
         </div>
       </div>
-      {/* <div className='w-[1408px] h-[380px] bg-orange-200'>
+      {/* <div className='max-w-[1408px] h-[380px] bg-orange-200'>
       </div> */}
     </div>
   )
