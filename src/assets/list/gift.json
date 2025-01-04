@@ -5,6 +5,7 @@
         "Description": "Diseñado para un desempeño avanzado en los juegos. G502 HERO cuenta con un sensor de juegos HERO 25K con seguimiento de precisión submicrométrica, LIGHTSYNC RGB personalizable, perfiles integrados, pesos reposicionables y mucho más.",
         "ShortDescription": "G502 HERO dispone de un sensor óptico avanzado para máxima precisión de seguimiento, iluminación RGB personalizada, perfiles de juego personalizados, de 200 a 25.600 dpi y pesas reposicionables. ",
         "Image": "https://imagenes.compragamer.com/productos/compragamer_Imganen_general_38052_Mouse_Logitech_G502_Gaming_Hero_High_Performance_RGB_2f8a1691-grn.jpg",
+        "Link":"https://compragamer.com/producto/Mouse_Logitech_G502_Gaming_Hero_High_Performance_RGB_12787?sort=lower_price&cate=2",
         "Caracteristicas": [
             {
                 "FeatureName": "Dpi Máximos",
@@ -78,14 +79,15 @@
                 "ShortDescription": "Hero",
                 "Price": 29.99
             }],
-        "Price": 29.99
+        "Price": "52.990"
     },
     {
         "id": 2,
-        "Nombre": "Brazo hidraulico para 3 monitores",
+        "Nombre": "Smart Tech KX-101-D",
         "Description": "Brazo hidraulico para 3 monitores",
         "ShortDescription": "Short description of Gift 2.",
-        "Image": "https://imagenes.compragamer.com/productos/compragamer_Imganen_general_36670_Mouse_Logitech_G502X_PLUS_Black_Lightforce_Hero_25K_Wireless_RGB_26eb9853-grn.jpg",
+        "Image": "https://http2.mlstatic.com/D_NQ_NP_969306-MLA80682958549_112024-O.webp",
+        "Link":"https://www.mercadolibre.com.ar/smart-tech-kx-101-d-negro/p/MLA18644452#polycard_client=search-nordic&wid=MLA1682989474&sid=search&searchVariation=MLA18644452&position=11&search_layout=stack&type=product&tracking_id=602cd8e0-4847-4751-85fa-eb110a78641c",
         "Caracteristicas": [
             {
                 "FeatureName": "Dpi Máximos",
@@ -112,14 +114,15 @@
                 ]
             }
         ],
-        "Price": 49.99
+        "Price": "99.999"
     },
     {
         "id": 3,
-        "Nombre": "Auricular",
+        "Nombre": "Auriculares JBL Quantum 610 Wireless 2.4Ghz",
         "Description": "This is a detailed description of Gift 2.",
         "ShortDescription": "Short description of Gift 2.",
-        "Image": "https://imagenes.compragamer.com/productos/compragamer_Imganen_general_26032_Auriculares_Logitech_G935_Wireless_2.4Ghz_7.1_Lightsync_DTS_Headphone_X_RGB_2e7a0ba2-grn.jpg",
+        "Image": "https://www.jbl.com.ar/dw/image/v2/AAUJ_PRD/on/demandware.static/-/Sites-masterCatalog_Harman/default/dwcfccfe8a/5.JBL_QUANTUM_910_Wireless_Product%20Image_Back.png?sw=537&sfrm=png",
+        "Link":"https://compragamer.com/producto/Auriculares_JBL_Quantum_610_Wireless_2_4Ghz_Surround_RGB_Black_39Hs_PC_PS4_PS5_XBOX_15926?cate=8&sort=lower_price",
         "Caracteristicas": [
             {
                 "FeatureName": "Dpi Máximos",
@@ -146,13 +149,14 @@
                 ]
             }
         ],
-        "Price": 49.99
+        "Price": "227.990"
     },{
         "id": 4,
-        "Nombre": "Disco solido m.2",
+        "Nombre": "Disco Sólido SSD M.2 Kingston 500GB",
         "Description": "Diseñado para un desempeño avanzado en los juegos. G502 HERO cuenta con un sensor de juegos HERO 25K con seguimiento de precisión submicrométrica, LIGHTSYNC RGB personalizable, perfiles integrados, pesos reposicionables y mucho más.",
         "ShortDescription": "G502 HERO dispone de un sensor óptico avanzado para máxima precisión de seguimiento, iluminación RGB personalizada, perfiles de juego personalizados, de 200 a 25.600 dpi y pesas reposicionables. ",
-        "Image": "https://imagenes.compragamer.com/productos/compragamer_Imganen_general_38052_Mouse_Logitech_G502_Gaming_Hero_High_Performance_RGB_2f8a1691-grn.jpg",
+        "Image": "https://imagenes.compragamer.com/productos/compragamer_Imganen_general_35379_Disco_S__lido_SSD_M.2_Kingston_500GB_NV2_3500MB_s_NVMe_PCI-E_4x_8fb1b7d5-grn.jpg",
+        "Link":"https://compragamer.com/producto/Disco_S_lido_SSD_M_2_Kingston_500GB_NV2_3500MB_s_NVMe_PCI_E_4x_14240?sort=lower_price&cate=81",
         "Caracteristicas": [
             {
                 "FeatureName": "Dpi Máximos",
@@ -179,7 +183,7 @@
                 ]
             }
         ],
-        "Price": 29.99
+        "Price": "56.300"
     },
     {
         "id": 5,
@@ -217,10 +221,11 @@
     },
     {
         "id": 6,
-        "Nombre": "Pad para el mouse pero del grande",
+        "Nombre": "Desk Pad Gigante Xxl",
         "Description": "This is a detailed description of Gift 2.",
         "ShortDescription": "Short description of Gift 2.",
-        "Image": "https://imagenes.compragamer.com/productos/compragamer_Imganen_general_26032_Auriculares_Logitech_G935_Wireless_2.4Ghz_7.1_Lightsync_DTS_Headphone_X_RGB_2e7a0ba2-grn.jpg",
+        "Image": "https://http2.mlstatic.com/D_NQ_NP_935166-MLU75098776768_032024-O.webp",
+        "Link":"https://www.mercadolibre.com.ar/cdtek-desk-pad-mapa-xxl-84-cm-38-cm-3-mm/p/MLA23138437?product_trigger_id=MLA37471890&quantity=1",
         "Caracteristicas": [
             {
                 "FeatureName": "Dpi Máximos",
@@ -247,13 +252,14 @@
                 ]
             }
         ],
-        "Price": 49.99
+        "Price": "10.999"
     },{
         "id": 7,
-        "Nombre": "Teclado mecanico Low profile",
+        "Nombre": "Razer Deathstalker V2 Pro",
         "Description": "Diseñado para un desempeño avanzado en los juegos. G502 HERO cuenta con un sensor de juegos HERO 25K con seguimiento de precisión submicrométrica, LIGHTSYNC RGB personalizable, perfiles integrados, pesos reposicionables y mucho más.",
         "ShortDescription": "G502 HERO dispone de un sensor óptico avanzado para máxima precisión de seguimiento, iluminación RGB personalizada, perfiles de juego personalizados, de 200 a 25.600 dpi y pesas reposicionables. ",
-        "Image": "https://imagenes.compragamer.com/productos/compragamer_Imganen_general_38052_Mouse_Logitech_G502_Gaming_Hero_High_Performance_RGB_2f8a1691-grn.jpg",
+        "Image": "https://http2.mlstatic.com/D_NQ_NP_665996-MLA81467799659_122024-O.webp",
+        "Link":"https://articulo.mercadolibre.com.ar/MLA-1192578902-razer-deathstalker-v2-pro-teclado-inalambrico-low-profile-_JM?searchVariation=186468193803#polycard_client=search-nordic&searchVariation=186468193803&position=12&search_layout=stack&type=item&tracking_id=1d3bb8c1-4a22-4a58-8212-53b69740a36c",
         "Caracteristicas": [
             {
                 "FeatureName": "Dpi Máximos",
@@ -280,14 +286,15 @@
                 ]
             }
         ],
-        "Price": 29.99
+        "Price": "355.315"
     },
     {
         "id": 8,
-        "Nombre": "Brazo hidraulico para el microfono",
+        "Nombre": "Brazo Para Microfono",
         "Description": "This is a detailed description of Gift 2.",
         "ShortDescription": "Short description of Gift 2.",
-        "Image": "https://imagenes.compragamer.com/productos/compragamer_Imganen_general_36670_Mouse_Logitech_G502X_PLUS_Black_Lightforce_Hero_25K_Wireless_RGB_26eb9853-grn.jpg",
+        "Image": "https://http2.mlstatic.com/D_NQ_NP_781852-MLA81453239047_122024-O.webp",
+        "Link":"https://articulo.mercadolibre.com.ar/MLA-1466506805-brazo-para-microfono-_JM#polycard_client=search-nordic&position=22&search_layout=stack&type=item&tracking_id=f88f2a62-4103-44e3-8cfc-c61cd6803ea3",
         "Caracteristicas": [
             {
                 "FeatureName": "Dpi Máximos",
@@ -314,14 +321,15 @@
                 ]
             }
         ],
-        "Price": 49.99
+        "Price": "196.739"
     },
     {
         "id": 9,
-        "Nombre": "Bateria para la notebook",
+        "Nombre": "Bateria P/ Hp Omen 15-ce",
         "Description": "This is a detailed description of Gift 2.",
         "ShortDescription": "Short description of Gift 2.",
-        "Image": "https://imagenes.compragamer.com/productos/compragamer_Imganen_general_26032_Auriculares_Logitech_G935_Wireless_2.4Ghz_7.1_Lightsync_DTS_Headphone_X_RGB_2e7a0ba2-grn.jpg",
+        "Image": "https://http2.mlstatic.com/D_NQ_NP_717378-MLA80863386256_122024-O.webp",
+        "Link":"https://articulo.mercadolibre.com.ar/MLA-1969636266-bateria-p-hp-omen-15-ce-15-dc-15-cx-sr04xl-tpn-q193-917678-_JM?searchVariation=186264846645#polycard_client=search-nordic&searchVariation=186264846645&position=4&search_layout=stack&type=item&tracking_id=965c28bc-a4fc-42b3-90fd-a240d4f016cb",
         "Caracteristicas": [
             {
                 "FeatureName": "Dpi Máximos",
@@ -349,14 +357,15 @@
             }
         ],
         "options": [ ],
-        "Price": 49.99
+        "Price": "98.824"
     },
     {
         "id": 10,
-        "Nombre": "Casco para la moto, rebatible",
+        "Nombre": "Casco Rebatible Hawk RS5 Flip Up Negro L",
         "Description": "This is a detailed description of Gift 2.",
         "ShortDescription": "Short description of Gift 2.",
-        "Image": "https://imagenes.compragamer.com/productos/compragamer_Imganen_general_26032_Auriculares_Logitech_G935_Wireless_2.4Ghz_7.1_Lightsync_DTS_Headphone_X_RGB_2e7a0ba2-grn.jpg",
+        "Image": "https://http2.mlstatic.com/D_NQ_NP_946353-MLU77896727630_082024-O.webp",
+        "Link":"https://www.mercadolibre.com.ar/hawk-flip-up-rs5-negro-l/p/MLA6261288?product_trigger_id=MLA6261294&quantity=1",
         "Caracteristicas": [
             {
                 "FeatureName": "Dpi Máximos",
@@ -383,6 +392,6 @@
                 ]
             }
         ],
-        "Price": 49.99
+        "Price": "94.923"
     }
 ]
