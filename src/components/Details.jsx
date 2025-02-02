@@ -18,13 +18,21 @@ function Details(gifts) {
   } 
 
   return (
-    <div className='flex justify-center flex-col items-center'>
-      <div className='bg-white min-w-[1408px] h-[580px] rounded-lg'>
-        <div className='flex'>
+    <div className='flex justify-center flex-col items-center bg-slate-500 mb-8'>
+      <div className='bg-red-400 rounded-lg'>
+        <div className='flex bg-yellow-200'>
           <img className="h-5 w-5 text-gray-600" />
           <Link to={PATHROUTES.LANDING}><button>Volver</button></Link>
         </div>
-        <div className='flex flex-row-reverse justify-center'>
+
+
+        <div className='flex justify-center flex-col items-center bg-green-500 lg:flex-row'>
+
+          <div>
+            <img className='w-[525px] h-[525px] ' src={giftDetails.Image} alt="" />
+          </div>
+
+
           <div className='w-[787px] h-[525px] '>
             <h2 className='text-left mb-4'>{giftDetails.Nombre}</h2>
             <p className='text-left mb-6'>{giftDetails.Description}</p>
@@ -67,12 +75,11 @@ function Details(gifts) {
                 </a>
             </div>
           </div>
-          <div>
-            <img className='w-[525px] h-[525px] ' src={giftDetails.Image} alt="" />
-          </div>
+
+
         </div>
       </div>
-      <div  className='bg-slate-600'>
+      {/* <div  className='bg-slate-600'>
         <h3>Opciones</h3>
         <div className='max-w-[1408px] max-h-[1480px]  bg-slate-400 flex flex-wrap justify-center'>
           {giftDetails.options && giftDetails.options.length > 0 && giftDetails.options.map(option => (
@@ -86,7 +93,7 @@ function Details(gifts) {
             />
           ))}
         </div>
-      </div>
+      </div> */}
       {/* <div className='max-w-[1408px] h-[380px] bg-orange-200'>
       </div> */}
     </div>
