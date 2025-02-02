@@ -1,4 +1,4 @@
-import asd from "../assets/Icons/gift.png"
+import asd from "../assets/Images/image.jpeg"
 
 function Presentacion() {
   return (
