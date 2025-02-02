@@ -18,24 +18,25 @@ function Details(gifts) {
   } 
 
   return (
-    <div className='flex justify-center flex-col items-center bg-slate-500 mb-8'>
-      <div className='bg-red-400 rounded-lg'>
-        <div className='flex bg-yellow-200'>
+    <div className='flex justify-center flex-col items-center  mb-8'>
+      <div className=' rounded-lg'>
+        <div className='flex justify-center lg:justify-start '>
           <img className="h-5 w-5 text-gray-600" />
           <Link to={PATHROUTES.LANDING}><button>Volver</button></Link>
         </div>
 
 
-        <div className='flex justify-center flex-col items-center bg-green-500 lg:flex-row'>
+        <div className='flex justify-center flex-col items-center  lg:flex-row'>
 
           <div>
             <img className='w-[525px] h-[525px] ' src={giftDetails.Image} alt="" />
           </div>
 
 
-          <div className='w-[787px] h-[525px] '>
-            <h2 className='text-left mb-4'>{giftDetails.Nombre}</h2>
+          <div className='max-w-[632px] h-[525px] flex flex-col '>
+            <h2 className='text-center lg:text-start mb-4'>{giftDetails.Nombre}</h2>
             <p className='text-left mb-6'>{giftDetails.Description}</p>
+            
             <div className="grid grid-cols-2 gap-4 mb-8">
                 <div className="space-y-1">
                   <div className="flex items-center gap-2">
